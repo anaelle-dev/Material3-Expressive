@@ -1,10 +1,10 @@
 id=material3-expressive
 name=Material 3 Expressive Theme
-version=v1.1
-versionCode=2
+version=v1.2
+versionCode=3
 author=Anaëlle
-description=Enables Material 3 Expressive Theme
+description=Enables Material 3 Expressive Theme | is_expressive_design_enabled = true
 
 updateJson=https://raw.githubusercontent.com/anaelle-dev/Material3-Expressive/main/update.json
-zipUrl=https://github.com/anaelle-dev/Material3-Expressive/releases/download/v1.1/Material3-Expressive.zip
+zipUrl=https://github.com/anaelle-dev/Material3-Expressive/releases/download/v1.2/Material3-Expressive.zip
 changelog=https://raw.githubusercontent.com/anaelle-dev/Material3-Expressive/main/changelog.md

@@ -1,3 +1,7 @@
+###### v1.2
+
+- Displays property status in the module description (requires a refresh of manager)
+
 ###### v1.1
 
 - Added an **action.sh script:** that switches the `is_expressive_design_enabled` property between `true` and `false` when executed
