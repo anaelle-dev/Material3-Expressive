@@ -1,3 +1,9 @@
+###### v1.3
+
+- service.sh replaced with system.prop
+- action.sh now displays the property state as **Enabled ✅** or **Disabled ❌**
+- Module description updated
+
 ###### v1.2
 
 - Displays property status in the module description (requires a refresh of manager)
