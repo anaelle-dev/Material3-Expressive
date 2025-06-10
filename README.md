@@ -4,7 +4,7 @@ Description copied from [igorb200828/Android-16-Expressive-Theme](https://github
 
 ## What does it do?
 
-Material 3 Expressive Theme is a Magisk module that changes boolean is_expressive_design_enabled to true. It has been tested on Android 15 QPR2 (BP1A.250405.007.B1), Android 16 Beta 3 and Android 16 Beta 4.
+Material 3 Expressive Theme is a Magisk module that changes boolean is_expressive_design_enabled to true. It has been tested on Android 15 QPR2 (BP1A.250405.007.B1 & BP1A.250505.005.B1) and Android 16 (BP2A.250605.031.A2).
 
 ## Target Applications
 
