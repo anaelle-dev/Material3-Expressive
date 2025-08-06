@@ -1,3 +1,5 @@
+# Moved to [Magisk Modules Alt Repo](https://github.com/Magisk-Modules-Alt-Repo/material3-expressive)
+
 Description copied from [igorb200828/Android-16-Expressive-Theme](https://github.com/igorb200828/Android-16-Expressive-Theme)
 
 # Material 3 Expressive Theme
